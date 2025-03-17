@@ -21,11 +21,11 @@ Step 6: Display message give in MainActivity file.
 Step 7: Save and run the application.
 
 ## PROGRAM:
-/*
-Developed by: VISHNUPATHI A
 
-RegisterNumber:  212221223004
-*/
+#### Developed by: VISHNUPATHI A
+
+#### RegisterNumber:  212221223004
+
 
 ### MainActivity.java:
 
